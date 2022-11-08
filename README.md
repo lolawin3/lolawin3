@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lolawin3
 - 👀 I’m a Snr. cloud developer
-- 🌱 I’m currently learning to be a professional cloud architect
-- 💞️ I’m looking to collaborate on machine learning and data analytics projects
+- 🌱 I’m aspire to be a professional cloud architect
+- 💞️ I’m looking to collaborate on web dev, web3, machine learning and data analytics projects
 - 📫 How to reach me ...luqmanolawin@yahoo.com
 
 <!---
