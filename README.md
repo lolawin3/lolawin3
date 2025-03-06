@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luqman Olawin
 - 👀 Working as a Cloud Security Engineer
-- 🌱 I’m aspire to be a Cloud Architect and Web 3 Developer
-- 💞️ I’m looking to collaborate on infrastructure dev, web3, machine learning and data analytics projects
+- 🌱 I’m aspire to be a Cloud Security AI Architect
+- 💞️ I’m looking to collaborate on infrastructure dev, cloud security, web3, machine learning and data analytics projects
 - 📫 How to reach me ...luqmanolawin@yahoo.com
 
 <!---
